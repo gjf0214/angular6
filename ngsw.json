@@ -2,7 +2,7 @@
   "configVersion": 1,
   "appData": {
     "name": "SuperCloud PWA",
-    "description": "SuperCloud with Server Side Rendering - starter"
+    "description": "SuperCloud PWA"
   },
   "index": "/index.html",
   "assetGroups": [
@@ -14,7 +14,7 @@
         "/0.d8311184cac04ebccc35.js",
         "/favicon.ico",
         "/index.html",
-        "/main.98ba7b8b798c8bbd21f1.js",
+        "/main.c356ee0f658e027ebbbb.js",
         "/polyfills.657b29ccf92ea0a2f9d3.js",
         "/runtime.a593b32a9ae0d6b13448.js",
         "/styles.11f0d8466a4196005534.css"
@@ -574,8 +574,8 @@
     "/assets/sass/material-dashboard/plugins/_sweetalert2.scss": "2a442d456e50aa2a42868bb726272fbe26275109",
     "/assets/sass/material-dashboard/plugins/_wizard-card.scss": "84ecad0bbe039fa527bd756ef65cea79ccfa4f46",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "afd11f69ae7cff19c357cbbad8074ab4e0fa8d6b",
-    "/main.98ba7b8b798c8bbd21f1.js": "f57aabca46fae101dc3fbbe4cb93337ae9b39e46",
+    "/index.html": "9df9d4e801b7802b5c43c219945d16f5aa0d077b",
+    "/main.c356ee0f658e027ebbbb.js": "5dad9bd2abce02b6cd22e0bfaa97ddf479b9d4e4",
     "/polyfills.657b29ccf92ea0a2f9d3.js": "c8366e1fd2ae1968bdd9a6261cd3624da808bde4",
     "/runtime.a593b32a9ae0d6b13448.js": "322895f706e4273d8774c1ddf6f0c856f46129fe",
     "/styles.11f0d8466a4196005534.css": "c8e802164e82e295b61fa1da9694514790f63890"
