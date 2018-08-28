@@ -319,7 +319,7 @@
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
         "https:\\/\\/fonts\\.gstatic\\.com\\/.*",
         "https:\\/\\/cdn\\.ampproject\\.org\\/.*",
-        "http:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/.*"
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/.*"
       ]
     }
   ],
