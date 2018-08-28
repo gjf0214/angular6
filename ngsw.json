@@ -11,9 +11,9 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/0.d8311184cac04ebccc35.js",
-        "/1.d756c933621575669c1f.js",
-        "/10.526d4d06b9a66cade929.js",
+        "/angular6/0.d8311184cac04ebccc35.js",
+        "/angular6/1.d756c933621575669c1f.js",
+        "/angular6/10.526d4d06b9a66cade929.js",
         "/11.7364fad95313956621a7.js",
         "/12.bce2058b7da9a0f97983.js",
         "/13.b0320455f86e79992cc9.js",
